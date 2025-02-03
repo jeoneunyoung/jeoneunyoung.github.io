@@ -100,7 +100,7 @@ const educationInfo = {
       schoolName: "Smith College",
       logo: require("./assets/images/sc_logo.webp"),
       subHeader: "Bachelor of Arts in Biological Sciences",
-      duration: "September 2013 - May 2017",
+      duration: "Sept 2013 - May 2017",
       desc: "Scholar athlete. Took courses about Comp Sci Programming."
     }
   ]
